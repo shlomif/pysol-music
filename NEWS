@@ -1,0 +1,10 @@
+==================================================================
+User visible changes for PySol-Music
+==================================================================
+
+Changes in 4.40 (01 Aug 2000)
+  * updated the setup program
+
+Changes in 4.30 (23 May 2000)
+  * first public release - requires PySol 4.30 or better
+
