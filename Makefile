@@ -5,7 +5,7 @@
 SHELL = /bin/sh
 
 PACKAGE = pysol-music
-VERSION = 4.40
+VERSION = 4.50
 
 default:
 	@echo
